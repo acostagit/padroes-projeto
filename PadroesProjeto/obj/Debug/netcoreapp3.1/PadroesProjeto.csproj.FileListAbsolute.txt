@@ -1,0 +1,14 @@
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\bin\Debug\netcoreapp3.1\PadroesProjeto.exe
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\bin\Debug\netcoreapp3.1\PadroesProjeto.deps.json
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\bin\Debug\netcoreapp3.1\PadroesProjeto.runtimeconfig.json
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\bin\Debug\netcoreapp3.1\PadroesProjeto.runtimeconfig.dev.json
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\bin\Debug\netcoreapp3.1\PadroesProjeto.dll
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\bin\Debug\netcoreapp3.1\PadroesProjeto.pdb
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.AssemblyInfoInputs.cache
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.AssemblyInfo.cs
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.csproj.CoreCompileInputs.cache
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.dll
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.pdb
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.genruntimeconfig.cache
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.csproj.AssemblyReference.cache
+C:\2022\Sistemas\DesignPatterns\PadroesProjeto\PadroesProjeto\obj\Debug\netcoreapp3.1\PadroesProjeto.GeneratedMSBuildEditorConfig.editorconfig
